@@ -1,2 +1,2 @@
 # SchoolWork
-Repository where all my schoolwork will be stored 
+Some of my projects from school
