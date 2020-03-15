@@ -7,7 +7,7 @@ Information Security
 File integrity checker
 Python 3.7.3
 '''
-#importing necessary things
+#importing necessary libs
 import hashlib
 from os import path
 
