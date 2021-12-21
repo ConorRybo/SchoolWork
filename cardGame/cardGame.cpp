@@ -16,9 +16,9 @@ using namespace std;
 int main(){
     vector<string> deck;
     bool flag = 0;
-	int n;
-	string userGuess;
-	string Draw;
+    int n;
+    string userGuess;
+    string Draw;
 	//string of the suits used to load the vector 
     string x[4] = {"Spades", "Hearts", "Clubs", "Diamonds"};
 	//loading a vector with 52 cards 
